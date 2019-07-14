@@ -1,0 +1,5 @@
+Fonte: http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/
+Atualizado em 11/12/2015 
+
+Comando Linux para apagar linhas em branco em arquivo texto.
+awk 'NF>0' arquivo.txt > novoarquivo.txt
